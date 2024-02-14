@@ -7,7 +7,7 @@ export const Navbar = ()=>{
                 <div className="logo">
                     <img src="https://res.cloudinary.com/davc5nbso/image/upload/v1707903088/lindo-televisor-antiguo-estilo-dibujos-animados-ilustracion-garabato-dibujado-mano_288411-944_mrfmqb.jpg" />
                 </div>
-            <div className="categories">
+            <div className="categorias">
                 <a href="#">LED</a>
                 <a href="#">OLED</a>
                 <a href="#">8K</a>

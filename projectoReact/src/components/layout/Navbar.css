@@ -16,11 +16,11 @@
     color: black;
 }
 
-.navbar .categories {
+.navbar .categorias {
     display: flex;
 }
 
-.navbar .categories a {
+.navbar .categorias a {
     color: white;
     text-decoration: none;
     padding: 0 10px;
